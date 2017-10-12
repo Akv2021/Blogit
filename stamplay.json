@@ -1,0 +1,10 @@
+{
+  "appId": "premiumblogs",
+  "apiKey": "27017a5afa3814cd2dd21e1c73a543abc0a376b51fe22735fd567cda82753b2b",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
